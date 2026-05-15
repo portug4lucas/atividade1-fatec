@@ -71,3 +71,51 @@ body {
     font-weight: 500;
     border-radius: 8px;
   }
+
+  .auth-card {
+  max-width: 500px;
+  min-width: 500px;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.auth-form label {
+  font-weight: 500;
+}
+
+.auth-form input {
+  width: 100%;
+  padding: 0.7rem 0.8rem;
+  border-radius: 0.5rem;
+  border: 0.0625rem solid #ccc;
+  font: inherit;
+  box-sizing: border-box;
+}
+
+.btn-secondary {
+  display: inline-flex;
+  padding: 0.7rem 1rem;
+  background-color: #6c757d;
+  color: #fff;
+  text-decoration: none;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+.link {
+  color: #1f6feb;
+  text-decoration: none;
+  font-weight: 700;
+}
