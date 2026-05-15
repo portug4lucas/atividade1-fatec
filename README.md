@@ -2,7 +2,6 @@
 
 Aplicação web desenvolvida com **Node.js** e **Express** para a disciplina de **Desenvolvimento Web I** da Fatec Jacareí.
 
-> Prof. Arley
 
 ## 🔗 Deploy
 
