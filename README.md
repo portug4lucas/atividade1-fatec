@@ -1,4 +1,4 @@
-# Atividade 1 — App Web com Express
+# Atividade — App Web com Express
 
 Aplicação web desenvolvida com **Node.js** e **Express** para a disciplina de **Desenvolvimento Web I** da Fatec Jacareí.
 
